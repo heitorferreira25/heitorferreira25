@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+  
+  ### ⚡ GitHub Stats
 
-<!--
-**heitorferreira25/heitorferreira25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=David100604&theme=radical&hide_border=false)<br/>
+  <div><br>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=David100604&theme=radical&show_icons=true">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David100604&layout=compact&theme=radical&exclude_repo=formacao-nodejs,seila&langs_count=6&hide=c++,ejs">
+  </div>
+  <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
